@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fefbfb",
+        "stroke-width": 0.1,
+        "stroke-opacity": 0.5,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.71337890625,
+              52.6047155934752
+            ],
+            [
+              -2.867431640625,
+              51.635066908847826
+            ],
+            [
+              -2.72735595703125,
+              51.614605707797466
+            ],
+            [
+              -2.6312255859375,
+              51.65551888331032
+            ],
+            [
+              -2.99102783203125,
+              52.04742324502936
+            ],
+            [
+              -3.4304809570312496,
+              52.62472735573713
+            ],
+            [
+              -3.71337890625,
+              52.6047155934752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.427734375,
+          52.57801901378955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5815429687499996,
+          52.51120638909939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.40301513671875,
+          52.40074312027673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3563232421875,
+          52.24630137198303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2135009765625,
+          52.236210353688655
+        ]
+      }
+    }
+  ]
+}
